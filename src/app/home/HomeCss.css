@@ -1,0 +1,73 @@
+.Home{
+    max-height: 100vh;
+    overflow: scroll;
+    padding-right: 5rem;
+    padding-left: 5rem;
+    padding-top: 2rem;
+    /* display: flex; */
+    height: 100vh;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.HomeContent{
+    justify-content: center;
+    padding: 2rem;
+    gap: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Hero{
+    height: 40%;
+    /* background-color: #aacfd0; */
+    padding: 3rem;
+}
+
+.navbar{
+    background-color: #aacfd0;
+    border-radius: 2rem;
+    margin-bottom: 4rem;
+    color: #204f60;
+}
+.rkWelcome{
+  height: 30%;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.HeroTitle{
+  font-size: 4rem;
+  color: #79a8a9;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px #204f60;
+  letter-spacing: 8px;
+}
+
+.HeroText{
+    font-size: 2rem;
+    color: #204f60;
+    letter-spacing: 5px;
+}
+
+.HeroP{
+    font-size: 1rem;
+    color: #79a8a9;
+    border-radius: 20px;
+}
+
+.Btn{
+    color: #79a8a9;
+}
+.Trending{
+  height: 100vh;
+  /* background:url(assets/home/Film.jpg); */
+  background-size: cover;
+}
+
+.MovieImage{
+  
+}
